@@ -1,4 +1,3 @@
-Docker build .
 FROM ubuntu:22.04
 MAINTAINER chinnadiesh12@gmail.com
 RUN apt install -y curl
